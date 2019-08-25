@@ -1,6 +1,6 @@
 # Tik-tak-toe-game
 
-This is a simle game made in python using functions.
+This is a simple game made in python using functions.
 
 Approach:
 
